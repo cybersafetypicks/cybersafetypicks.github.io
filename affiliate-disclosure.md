@@ -1,3 +1,8 @@
+---
+layout: single
+title: "Affiliate disclosure"
+permalink: /affiliate-disclosure/
+---
 <!DOCTYPE html>
 <html lang="en">
 <head>
