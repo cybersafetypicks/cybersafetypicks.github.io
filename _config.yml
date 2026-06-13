@@ -1,4 +1,9 @@
-remote_theme: mmistakes/minimal-mistakes   # or any GitHub user/repo
+remote_theme: mmistakes/minimal-mistakes
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+
+title: Cyber Safety Picks
+description: Simple cybersecurity buying guides for families, students, freelancers, and home users.
