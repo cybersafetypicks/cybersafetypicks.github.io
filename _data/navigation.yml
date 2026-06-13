@@ -1,0 +1,13 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Editorial Policy"
+    url: /editorial-policy/
+  - title: "Affiliate Disclosure"
+    url: /affiliate-disclosure/
+  - title: "Privacy"
+    url: /privacy/
+  - title: "Contact"
+    url: /contact/
