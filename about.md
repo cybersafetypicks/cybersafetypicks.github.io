@@ -1,3 +1,8 @@
+---
+layout: single
+title: "About"
+permalink: /about/
+---
 <!DOCTYPE html>
 <html lang="en">
 <head>
