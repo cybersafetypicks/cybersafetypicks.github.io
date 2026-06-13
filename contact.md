@@ -1,3 +1,8 @@
+---
+layout: single
+title: "Contact"
+permalink: /contact/
+---
 <!DOCTYPE html>
 <html lang="en">
 <head>
