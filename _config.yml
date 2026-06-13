@@ -1,6 +1,4 @@
-# For a supported GitHub Pages theme:
-theme: jekyll-theme-architect
+remote_theme: mmistakes/minimal-mistakes   # or any GitHub user/repo
 
-# Add these for basic site info:
-title: Cyber Security Picks
-description: Simple cybersecurity buying guides for families, students, freelancers, and home users.
+plugins:
+  - jekyll-remote-theme
