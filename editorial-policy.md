@@ -1,3 +1,8 @@
+---
+layout: single
+title: "Editorial Policy"
+permalink: /editorial-policy/
+---
 <!DOCTYPE html>
 <html lang="en">
 <head>
