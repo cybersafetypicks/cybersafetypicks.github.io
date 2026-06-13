@@ -1,3 +1,8 @@
+---
+layout: single
+title: "Privacy"
+permalink: /privacy/
+---
 <!DOCTYPE html>
 <html lang="en">
 <head>
