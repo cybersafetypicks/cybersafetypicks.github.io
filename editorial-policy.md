@@ -3,49 +3,24 @@ layout: single
 title: "Editorial Policy"
 permalink: /editorial-policy/
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Editorial Policy | Cyber Safety Picks</title>
-  <meta name="description" content="Cyber Safety Picks editorial policy.">
-  style.css
-</head>
-<body>
 
-<header>
-  <h1>Editorial Policy</h1>
-  <nav>
-    index.htmlHome</a>
-    about.htmlAbout</a>
-    affiliate-disclosure.htmlAffiliate Disclosure</a>
-    privacy.htmlPrivacy</a>
-    contact.htmlContact</a>
-  </nav>
-</header>
+Cyber Safety Picks is committed to publishing accurate, unbiased, and helpful content.
 
-<main>
-  <p>Cyber Safety Picks creates educational buying guides for non-technical users.</p>
+## How We Research
 
-  <h2>How We Evaluate Tools</h2>
-  <p>We review public product information, official documentation, pricing pages, platform support, feature descriptions, and beginner-friendliness.</p>
+- We consult official product documentation and vendor websites
+- We cross-reference independent security reviews and audits
+- We test products where possible before recommending them
+- We update content when products release major changes
 
-  <h2>Hands-On Testing</h2>
-  <p>We do not claim hands-on testing unless a page clearly states that hands-on testing was performed.</p>
+## Independence
 
-  <h2>Affiliate Relationships</h2>
-  <p>Some pages may include affiliate links. Affiliate relationships do not determine our recommendations. We aim to recommend tools based on suitability for the intended user and use case.</p>
+Our editorial opinions are not influenced by advertisers or affiliate partners. Affiliate relationships may exist but never affect our rankings or recommendations.
 
-  <h2>Accuracy</h2>
-  <p>Product features, prices, and availability can change. Readers should verify details on the official product website before purchasing.</p>
+## Corrections
 
-  <h2>No Personalized Advice</h2>
-  <p>Our content is educational and general. It is not personalized cybersecurity, legal, financial, or professional advice.</p>
-</main>
+If you find an error in any of our guides, please [contact us](/contact/) and we will review and correct it promptly.
 
-<footer>
-  <p>&copy; 2026 Cyber Safety Picks.</p>
-</footer>
+## Affiliate Disclosure
 
-</body>
-</html>
+Some links on this site are affiliate links. See our [Affiliate Disclosure](/affiliate-disclosure/) for full details.
