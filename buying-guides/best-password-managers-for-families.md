@@ -1,3 +1,8 @@
+---
+title: "Best Password Managers for Families"
+permalink: /buying-guides/best-password-managers-for-families/
+---
+
 # Best Password Managers for Families
 
 ## Who This Is For
