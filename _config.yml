@@ -2,7 +2,7 @@
 # THEME
 # ==============================================================
 theme                    : minimal-mistakes-jekyll
-minimal_mistakes_skin    : "mint"  # options: default, air, aqua, contrast, dark, dirt, neon, mint, sunrise
+minimal_mistakes_skin    : "aqua"  # options: default, air, aqua, contrast, dark, dirt, neon, mint, sunrise
 
 # ==============================================================
 # SITE SETTINGS
