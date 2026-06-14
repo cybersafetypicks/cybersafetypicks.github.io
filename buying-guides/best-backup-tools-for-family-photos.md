@@ -1,3 +1,8 @@
+---
+title: "Best Password Managers for Families"
+permalink: /buying-guides/best-backup-tools-for-family-photos/
+---
+
 # Best Backup Tools for Family Photos
 
 ## Who This Is For:
