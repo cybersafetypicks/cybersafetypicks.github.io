@@ -1,48 +1,31 @@
 ---
 layout: single
-title: "Privacy"
+title: "Privacy Policy"
 permalink: /privacy/
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Privacy Policy | Cyber Safety Picks</title>
-  <meta name="description" content="Privacy policy for Cyber Safety Picks.">
-  style.css
-</head>
-<body>
 
-<header>
-  <h1>Privacy Policy</h1>
-  <nav>
-    index.htmlHome</a>
-    about.htmlAbout</a>
-    editorial-policy.htmlEditorial Policy</a>
-    affiliate-disclosure.htmlAffiliate Disclosure</a>
-    contact.htmlContact</a>
-  </nav>
-</header>
+Your privacy matters to us. This policy explains what information Cyber Safety Picks collects and how it is used.
 
-<main>
-  <p>Cyber Safety Picks is an educational website. We do not sell products directly and do not provide customer support for third-party products.</p>
+## Information We Collect
 
-  <h2>Information We Collect</h2>
-  <p>At launch, we do not intentionally collect personal information through forms, accounts, or purchases.</p>
+**Automatically collected:** When you visit our site, standard web server logs may record your IP address, browser type, and pages visited. This data is used for analytics only.
 
-  <h2>Third-Party Links</h2>
-  <p>Our website may link to third-party websites, including affiliate partners. Those websites have their own privacy policies and practices.</p>
+**Voluntarily provided:** If you contact us via a form or email, we collect only the information you choose to send.
 
-  <h2>Analytics</h2>
-  <p>If we add analytics in the future, we will update this page to explain what is collected and why.</p>
+## Cookies
 
-  <h2>Contact</h2>
-  <p>For privacy questions, use the contact method listed on our Contact page.</p>
-</main>
+This site may use cookies for analytics purposes (such as Google Analytics). You can disable cookies in your browser settings at any time.
 
-<footer>
-  <p>&copy; 2026 Cyber Safety Picks.</p>
-</footer>
+## Third-Party Links
 
-</body>
-</html>
+Our site contains links to external products and services. We are not responsible for the privacy practices of those sites.
+
+## Affiliate Links
+
+We use affiliate links. Clicking them may allow third parties to set cookies. See our [Affiliate Disclosure](/affiliate-disclosure/) for details.
+
+## Contact
+
+For any privacy-related questions, please [contact us](/contact/).
+
+*Last updated: June 2026*
