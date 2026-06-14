@@ -1,9 +1,7 @@
 ---
-title: "Best Password Managers for Families"
+title: "Best Security Keys for Beginners"
 permalink: /buying-guides/best-security-keys-for-beginners/
 ---
-
-# Best Security Keys for Beginners
 
 ## Who This Is For:
 This guide is for non-technical users looking to secure their accounts without needing extensive technical knowledge.
