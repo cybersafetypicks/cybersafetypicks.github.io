@@ -1,9 +1,7 @@
 ---
-title: "How to Choose a Password Manager"
+title: "Security Key vs Authenticator App: Which is Better?"
 permalink: /guides/security-key-vs-authenticator-app/
 ---
-
-# Security Key vs Authenticator App: Which is Better?
 
 ## Who This Is For
 Non-technical users looking for a simple comparison between Security Keys and Authenticator Apps.
