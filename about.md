@@ -1,42 +1,24 @@
 ---
 layout: single
-title: "About"
+title: "About Cyber Safety Picks"
 permalink: /about/
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>About | Cyber Safety Picks</title>
-  <meta name="description" content="About Cyber Safety Picks and our mission to explain cybersecurity tools in plain English.">
-  style.css
-</head>
-<body>
 
-<header>
-  <h1>About Cyber Safety Picks</h1>
-  <nav>
-    index.htmlHome</a>
-    editorial-policy.htmlEditorial Policy</a>
-    affiliate-disclosure.htmlAffiliate Disclosure</a>
-    privacy.htmlPrivacy</a>
-    contact.htmlContact</a>
-  </nav>
-</header>
+Cyber Safety Picks was created to help everyday people make smart decisions about cybersecurity tools — without needing a technical background.
 
-<main>
-  <p>Cyber Safety Picks is an independent educational website that helps non-technical people understand and compare cybersecurity tools.</p>
+We write for families, students, freelancers, and home users who want honest, plain-English guidance on the tools that keep them safe online.
 
-  <p>We focus on practical topics such as password managers, VPNs, security keys, authenticator apps, backups, antivirus tools, and home internet safety.</p>
+## What We Do
 
-  <p>Our goal is to make cybersecurity buying decisions easier for families, students, freelancers, remote workers, and home users.</p>
+We research, test, and compare cybersecurity products including password managers, VPNs, security keys, antivirus tools, and backup solutions.
 
-  <p>We do not provide personalized security consulting, emergency support, or incident response services.</p>
-</main>
+## Our Standards
 
-<footer>
-  <p>&copy; 2026 Cyber Safety Picks.</p>
-</footer>
+- We only recommend products we have researched thoroughly
+- We rely on official product documentation and verified specs
+- We disclose affiliate relationships clearly
+- We update our guides when products change
 
-</body>
-</html>
+## Who We Are
+
+We are independent writers and researchers focused on making cybersecurity accessible to everyone.
