@@ -3,8 +3,6 @@ title: "Best Password Managers for Families"
 permalink: /buying-guides/best-password-managers-for-families/
 ---
 
-# Best Password Managers for Families
-
 ## Who This Is For
 This guide is for non-technical users looking to secure their accounts and manage passwords effectively within a family setting.
 
