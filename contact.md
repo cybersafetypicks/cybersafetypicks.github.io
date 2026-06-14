@@ -3,42 +3,20 @@ layout: single
 title: "Contact"
 permalink: /contact/
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Contact | Cyber Safety Picks</title>
-  <meta name="description" content="Contact information for Cyber Safety Picks.">
-  style.css
-</head>
-<body>
 
-<header>
-  <h1>Contact</h1>
-  <nav>
-    index.htmlHome</a>
-    about.htmlAbout</a>
-    editorial-policy.htmlEditorial Policy</a>
-    affiliate-disclosure.htmlAffiliate Disclosure</a>
-    privacy.htmlPrivacy</a>
-  </nav>
-</header>
+Have a question, found an error, or want to suggest a topic? We'd love to hear from you.
 
-<main>
-  <p>Cyber Safety Picks is an educational website. We do not provide personalized cybersecurity support, product support, consulting, emergency help, or incident response services.</p>
+## Get in Touch
 
-  <p>For product questions, billing questions, refunds, setup issues, or support, please contact the product vendor directly.</p>
+Email us at: **hello@cybersafetypicks.com**
 
-  <p>For website-related notices only, you may contact us through the email address listed here:</p>
+We typically respond within 2–3 business days.
 
-  <p><strong>cybersafetypicks@icloud.com</strong></p>
+## What to Reach Out About
 
-  <p>.</p>
-</main>
+- Corrections or updates to our guides
+- Topic suggestions for new buying guides
+- Partnership or media inquiries
+- General questions about cybersecurity tools
 
-<footer>
-  <p>&copy; 2026 Cyber Safety Picks.</p>
-</footer>
-
-</body>
-</html>
+Please do not send personal financial or account information via email.
