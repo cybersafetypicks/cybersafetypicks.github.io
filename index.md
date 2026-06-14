@@ -9,19 +9,19 @@ author_profile: false
 If you are not technical and want to protect your online accounts, devices, 
 and home internet, start with these beginner-friendly guides.
 
-- [How to Choose a Password Manager](how-to-choose-a-password-manager/)
-- [How to Choose a VPN](how-to-choose-a-vpn/)
-- [What Is Two-Factor Authentication?](what-is-two-factor-authentication/)
-- [VPN vs Antivirus: What Is the Difference?](vpn-vs-antivirus/)
-- [Security Key vs Authenticator App](security-key-vs-authenticator-app/)
+- [How to Choose a Password Manager](/guides/how-to-choose-a-password-manager/)
+- [How to Choose a VPN](/guides/how-to-choose-a-vpn/)
+- [What Is Two-Factor Authentication?](/guides/what-is-two-factor-authentication/)
+- [VPN vs Antivirus: What Is the Difference?](/guides/vpn-vs-antivirus/)
+- [Security Key vs Authenticator App](/guides/security-key-vs-authenticator-app/)
 
 ## Buying Guides
 
-- [Best Password Managers for Families](best-password-managers-for-families/)
-- [Best Password Managers for Students](best-password-managers-for-students/)
-- [Best VPNs for Home Wi-Fi Privacy](best-vpns-for-home-wifi-privacy/)
-- [Best Security Keys for Beginners](best-security-keys-for-beginners/)
-- [Best Backup Tools for Family Photos](best-backup-tools-for-family-photos/)
+- [Best Password Managers for Families](/buying-guides/best-password-managers-for-families/)
+- [Best Password Managers for Students](/buying-guides/best-password-managers-for-students/)
+- [Best VPNs for Home Wi-Fi Privacy](/buying-guides/best-vpns-for-home-wifi-privacy/)
+- [Best Security Keys for Beginners](/buying-guides/best-security-keys-for-beginners/)
+- [Best Backup Tools for Family Photos](/buying-guides/best-backup-tools-for-family-photos/)
 
 ## Our Approach
 
