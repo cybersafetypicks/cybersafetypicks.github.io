@@ -1,40 +1,25 @@
 ---
 layout: single
-title: "Affiliate disclosure"
+title: "Affiliate Disclosure"
 permalink: /affiliate-disclosure/
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Affiliate Disclosure | Cyber Safety Picks</title>
-  <meta name="description" content="Affiliate disclosure for Cyber Safety Picks.">
-  style.css
-</head>
-<body>
 
-<header>
-  <h1>Affiliate Disclosure</h1>
-  <nav>
-    index.htmlHome</a>
-    about.htmlAbout</a>
-    editorial-policy.htmlEditorial Policy</a>
-    privacy.htmlPrivacy</a>
-    contact.htmlContact</a>
-  </nav>
-</header>
+Cyber Safety Picks participates in affiliate marketing programs. This means we may earn a commission if you click a link on our site and make a purchase — at no extra cost to you.
 
-<main>
-  <p>Some links on Cyber Safety Picks may be affiliate links. If you click an affiliate link and make a purchase, we may earn a commission at no extra cost to you.</p>
+## What This Means
 
-  <p>As an Amazon Associate I earn from qualifying purchases.</p>
+- Some product links on our site are affiliate links
+- We earn a small commission when you buy through those links
+- The price you pay is never affected by our affiliate relationship
 
-  <p>We aim to keep recommendations useful, clear, and based on the needs of the intended audience.</p>
-</main>
+## What This Does NOT Mean
 
-<footer>
-  <p>&copy; 2026 Cyber Safety Picks.</p>
-</footer>
+- Affiliate relationships do not influence our recommendations
+- We do not recommend products solely because they have affiliate programs
+- We do not accept payment for positive reviews
 
-</body>
-</html>
+## Which Programs We Use
+
+We may participate in affiliate programs including but not limited to: Amazon Associates, and direct partner programs with cybersecurity vendors.
+
+If you have questions about our affiliate relationships, [contact us](/contact/).
