@@ -12,8 +12,7 @@ plain-English guidance on the tools that keep them safe online.
 
 ## What We Do
 
-We research, test, and compare cybersecurity products including password 
-managers, VPNs, security keys, antivirus tools, and backup solutions.
+We review public product information, official documentation, pricing pages, and feature pages. We do not claim hands-on testing unless explicitly stated. Recommendations are based on usability, security relevance, platform support, pricing clarity, and suitability for the intended audience.
 
 ## Our Standards
 
