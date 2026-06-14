@@ -1,3 +1,8 @@
+---
+title: "How to Choose a Password Manager"
+permalink: /guides/how-to-choose-a-vpn/
+---
+
 # How to Choose a VPN in 2026
 
 ## Who This Is For:
