@@ -1,5 +1,4 @@
 ---
-layout: single
 title: "Affiliate Disclosure"
 permalink: /affiliate-disclosure/
 ---
