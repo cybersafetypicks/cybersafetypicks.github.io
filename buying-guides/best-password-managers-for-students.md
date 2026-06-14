@@ -1,9 +1,7 @@
 ---
-title: "Best Password Managers for Families"
+title: "Best Password Managers for Students"
 permalink: /buying-guides/best-password-managers-for-students/
 ---
-
-# Best Password Managers for Students
 
 ## Who This Is For
 This guide is for non-technical students looking to manage their passwords securely without having to remember each one individually.
