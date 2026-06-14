@@ -4,7 +4,7 @@ title: "Affiliate Disclosure"
 permalink: /affiliate-disclosure/
 ---
 
-Cyber Safety Picks participates in affiliate marketing programs. This means we may earn a commission if you click a link on our site and make a purchase — at no extra cost to you.
+Some pages on this site may include affiliate links in the future. If that happens, we may earn a commission at no extra cost to you. We will clearly mark pages and links that include affiliate relationships.
 
 ## What This Means
 
