@@ -1,5 +1,4 @@
 ---
-layout: single
 title: "About Cyber Safety Picks"
 permalink: /about/
 ---
