@@ -18,6 +18,12 @@ search                   : true
 search_full_content      : true
 
 # ==============================================================
+# INCLUDE _pages FOLDER
+# ==============================================================
+include:
+  - _pages
+
+# ==============================================================
 # PLUGINS
 # ==============================================================
 plugins:
@@ -50,13 +56,29 @@ analytics:
 
 # ==============================================================
 # PAGE DEFAULTS
-# Applies layout: single to all pages automatically
-# so you don't need to add it manually to every .md file
+# Auto-applies layouts based on folder — no need to add
+# layout to every single .md file manually
 # ==============================================================
 defaults:
+  # Static pages
   - scope:
-      path: ""
-      type: pages
+      path: "_pages"
     values:
       layout: single
       author_profile: false
+
+  # Start Here guides
+  - scope:
+      path: "guides"
+    values:
+      layout: single
+      author_profile: false
+      show_date: true
+
+  # Buying guides
+  - scope:
+      path: "buying-guides"
+    values:
+      layout: single
+      author_profile: false
+      show_date: true
