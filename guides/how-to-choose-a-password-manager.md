@@ -1,3 +1,8 @@
+---
+title: "How to Choose a Password Manager"
+permalink: /guides/how-to-choose-a-password-manager/
+---
+
 # How to Choose a Password Manager in 2026
 
 ## Who This Is For:
