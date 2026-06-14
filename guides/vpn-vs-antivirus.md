@@ -1,9 +1,8 @@
 ---
-title: "How to Choose a Password Manager"
+title: "VPN vs Antivirus: What's the Difference?"
 permalink: /guides/vpn-vs-antivirus/
 ---
 
-# VPN vs Antivirus: What's the Difference?
 ## For Whom:
 This information is intended for non-technical users who want to understand the basic differences between a Virtual Private Network (VPN) and an antivirus software.
 ## What To Look For:
