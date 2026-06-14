@@ -8,7 +8,7 @@ Have a question, found an error, or want to suggest a topic? We'd love to hear f
 
 ## Get in Touch
 
-Email us at: **hello@cybersafetypicks.com**
+Email us at: **cybersafetypicks@icloud.com**
 
 We typically respond within 2–3 business days.
 
