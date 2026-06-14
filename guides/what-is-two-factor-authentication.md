@@ -1,9 +1,8 @@
 ---
-title: "How to Choose a Password Manager"
+title: "What is Two-Factor Authentication and Why It Matters?"
 permalink: /guides/what-is-two-factor-authentication/
 ---
 
-# What is Two-Factor Authentication and Why It Matters?
 ## Who This Is For:
 Non-technical users who want to understand the basics of two-factor authentication (2FA) without delving into complex technical details.
 
