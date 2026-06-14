@@ -1,9 +1,7 @@
 ---
-title: "Best Password Managers for Families"
+title: "Best Backup Tools for Family Photos"
 permalink: /buying-guides/best-backup-tools-for-family-photos/
 ---
-
-# Best Backup Tools for Family Photos
 
 ## Who This Is For:
 This guide is for non-technical users looking to back up their family photos in a simple and easy way.
