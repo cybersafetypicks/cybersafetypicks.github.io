@@ -1,3 +1,8 @@
+---
+title: "Best Password Managers for Families"
+permalink: /buying-guides/best-vpns-for-home-wifi-privacy/
+---
+
 # Best VPNs for Home Wi-Fi Privacy
 
 ## Who This Is For:
