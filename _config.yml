@@ -1,9 +1,9 @@
-remote_theme: pages-themes/cayman@v0.2.0
+theme: minimal-mistakes-jekyll        # ← changed from remote_theme
 
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-include-cache              # ← add this
 
 title: Cyber Safety Picks
 description: Simple cybersecurity buying guides for families, students, freelancers, and home users.
