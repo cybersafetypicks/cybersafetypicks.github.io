@@ -1,3 +1,8 @@
+---
+title: "How to Choose a Password Manager"
+permalink: /guides/security-key-vs-authenticator-app/
+---
+
 # Security Key vs Authenticator App: Which is Better?
 
 ## Who This Is For
