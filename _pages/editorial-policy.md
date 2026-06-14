@@ -1,5 +1,4 @@
 ---
-layout: single
 title: "Editorial Policy"
 permalink: /editorial-policy/
 ---
