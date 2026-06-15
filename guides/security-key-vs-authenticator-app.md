@@ -34,8 +34,6 @@ For those seeking a simple yet effective method to enhance account security with
 However, for users who prioritize robust security features and are willing to invest in additional hardware like a Security Key, this can be highly beneficial. Consider using both methods where applicable—either in combination or individually—to provide an extra layer of protection.
 
 ## Affiliate Disclosure Placeholder
-[Please note: This comparison does not include any affiliate links, as I am committed to providing unbiased information. If you choose to use either option based on our recommendation, all decisions are yours alone.]
+Please note: This comparison does not include any affiliate links, as I am committed to providing unbiased information. If you choose to use either option based on our recommendation, all decisions are yours alone.
 
 ---
-
-This draft maintains a simple and straightforward approach suitable for non-technical users, focusing on key differences without delving into complex technical details or making unsupported claims.
