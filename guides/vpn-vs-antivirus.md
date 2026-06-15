@@ -19,4 +19,4 @@ When choosing cybersecurity tools, it’s important to know what each one does. 
 For most users, having both an updated antivirus software and a trusted VPN service is ideal. This combination helps secure your online activities from various threats including malware and unauthorized access, while also providing you with greater privacy when accessing the internet.
 
 ### Affiliate Disclosure Placeholder:
-This recommendation includes affiliate links for educational purposes. If you decide to purchase through these links, I may receive a small commission (at no extra cost to you).
+Please note: This comparison does not include any affiliate links, as I am committed to providing unbiased information. If you choose to use either option based on our recommendation, all decisions are yours alone.
