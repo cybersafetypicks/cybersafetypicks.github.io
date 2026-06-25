@@ -29,3 +29,5 @@ Most security advice assumes you work in IT. Ours doesn't. We apply nearly
 three decades of professional cybersecurity experience to answer one simple 
 question: what does a regular person actually need to stay safe online? 
 Every guide we publish is built around that answer.
+
+<meta name='impact-site-verification' value='bcc7d3dc-6d29-4f2e-bae6-018073fe2e0c'>
